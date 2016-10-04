@@ -1,2 +1,4 @@
 You can query/set/replace/unset options with this command. The name is actually the section and the key separated by a dot, and the value will be escaped.
 Multiple lines can be added to an option by using the --add option.
+The type specifier can be either --int or --bool
+--system, --global, --local and --file <filename>
